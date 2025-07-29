@@ -1,6 +1,5 @@
 # Noise Reduction in Web Data: A Learning Approach Based on Dynamic User Interests
 
-![Certificate](./certificate.JPG)
 
 ## 📄 Publication Overview
 
