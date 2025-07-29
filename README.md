@@ -55,6 +55,6 @@ A formal certificate of publication has been awarded. See the attached image for
 ## 📎 Resources
 
 - [Full Paper PDF](./338811667882875.pdf)
-- [Official Journal Website](https://www.jetir.org/)
+- [Official Journal Website](https://ijarst.in/)
 
 > Feel free to cite the paper if you find the ideas useful in your own research.
