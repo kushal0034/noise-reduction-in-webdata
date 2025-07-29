@@ -1,6 +1,6 @@
 # Noise Reduction in Web Data: A Learning Approach Based on Dynamic User Interests
 
-![Certificate](./certificate.jpg)
+![Certificate](./certificate.JPG)
 
 ## 📄 Publication Overview
 
@@ -48,7 +48,7 @@ Current web noise reduction methods rely heavily on page structure or layout, wh
 
 A formal certificate of publication has been awarded. See the attached image for reference.
 
-![Certificate Preview](./certificate.jpg)
+![Certificate Preview](./certificate.JPG)
 
 ---
 
